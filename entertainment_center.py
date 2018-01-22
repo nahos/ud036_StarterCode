@@ -30,4 +30,4 @@ to the function open_movies_page """
 movies = [avatar, toystory, goal, god_father, forrest_gump]
 """ The below function creates a web page for movies
 catalog and takes a list of movie names as input """
-freshtomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(movies)
